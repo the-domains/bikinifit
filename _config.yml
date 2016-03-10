@@ -1,0 +1,28 @@
+name: 'BikiniFit '
+favicon: null
+layout_spectrum: 0.8142419497016817
+typography_spectrum: 0.7911449153907597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6861404245719314
+  lightness: 0.8139403946697712
+  saturation: 0.21324563724920154
+  rhythmicContrast: 0.7902837835717946
+purpose: []
