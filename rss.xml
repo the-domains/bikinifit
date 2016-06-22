@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BikiniFit ]]></title>
         <description><![CDATA[BikiniFit ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bikinifit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:18:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 22 Jun 2016 02:03:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bikinifit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0e83900-5258-465d-90ea-5414cef4aa8b.jpg">]]></description>
+            <link>https://thegrid.ai/bikinifit/cd5da61b-f28f-4aed-9474-0c692a6d7d2e/index.html</link>
+            <guid isPermaLink="false">cd5da61b-f28f-4aed-9474-0c692a6d7d2e</guid>
+            <pubDate>Wed, 22 Jun 2016 02:03:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/add20e3a-3efb-4515-8787-7f53e3a5e14f.jpg">]]></description>
-            <link>undefinedfb220256-1e7f-48bd-96b2-7a30be89a5e8/index.html</link>
+            <link>https://thegrid.ai/bikinifit/fb220256-1e7f-48bd-96b2-7a30be89a5e8/index.html</link>
             <guid isPermaLink="false">fb220256-1e7f-48bd-96b2-7a30be89a5e8</guid>
             <pubDate>Thu, 10 Mar 2016 22:15:27 GMT</pubDate>
         </item>
